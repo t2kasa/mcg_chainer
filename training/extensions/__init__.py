@@ -1,0 +1,1 @@
+from training.extensions.memory_consumption_graph import MemoryConsumptionGraph
